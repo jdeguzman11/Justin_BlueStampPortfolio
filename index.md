@@ -79,7 +79,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | CanaKit Raspberry Pi 4 Starter Kit | Building/Setting up my Raspberry Pi | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Hosyond 7 Inch IPS LCD Touch Screen Display Panel | Displays game and provides touch screen to choose from options | $45.88 | <a href="https://www.amazon.com/Hosyond-Display-1024%C3%97600-Capacitive-Raspberry/dp/B09XKC53NH/ref=sr_1_3?crid=1CZRN1MHNP6SJ&keywords=hoysond+7+inch+IPS+LCD+touch+screen+display+panel&qid=1689552210&sprefix=hoysond+7+inch+ips+lcd+touch+screen+display+panel%2Caps%2C134&sr=8-3"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
 # Other Resources/Examples
