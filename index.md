@@ -78,9 +78,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| CanaKit Raspberry Pi 4 Starter Kit | Building/Setting up my Raspberry Pi | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| CanaKit Raspberry Pi 4 Starter Kit | Used for building/setting up my Raspberry Pi | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Hosyond 7 Inch IPS LCD Touch Screen Display Panel | Displays game and provides touch screen to choose from options | $45.88 | <a href="https://www.amazon.com/Hosyond-Display-1024%C3%97600-Capacitive-Raspberry/dp/B09XKC53NH/ref=sr_1_3?crid=1CZRN1MHNP6SJ&keywords=hoysond+7+inch+IPS+LCD+touch+screen+display+panel&qid=1689552210&sprefix=hoysond+7+inch+ips+lcd+touch+screen+display+panel%2Caps%2C134&sr=8-3"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Wireless Keyboard and Mouse | Used to setup/Access Raspberry Pi | $23.99 | <a href="https://www.amazon.com/Wireless-Keyboard-Full-Size-Desktops-Computer/dp/B07XDWCLYF/ref=sr_1_3?crid=3FL658R6GSFA1&keywords=wisfox+usb+computer+keyboard&qid=1689552497&sprefix=wisfox+usb+computer+keyboar%2Caps%2C147&sr=8-3"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
