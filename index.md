@@ -35,11 +35,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qKQ7GKipk_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+My second milestone was to get my game up and running on my LCD. This immediately brought me to a problem as my API key ran out of tokens, so my game couldn’t use ChatGPT to generate prompts and options. I fixed this by getting a new API with tokens from my instructor and replacing my old API key that was on the pi. I was able to run the game smoothly on the LCD and I had the idea of making the game portable as a modification. I tried using an old portable charger of mine, but the pi required more power than it could give. I decided I was going to need a new one to help everything run properly. For my next milestoneI will try to create a GUI(graphical user interface), manage the wires on the interior, and design the exterior to be more engaging.
 
 # First Milestone
 
