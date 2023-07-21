@@ -3,8 +3,7 @@ My project implements ChatGPT’s OpenAI to create an endless game that gives pl
 
 
 ```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
+
 ```
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
