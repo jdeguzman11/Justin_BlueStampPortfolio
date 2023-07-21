@@ -38,7 +38,7 @@ My first milestone was to get my raspberry pi to run the code of the game from m
 # Code
 Here is the code I used to run my game! Make sure you setup an API Key to be able to use and pull from ChatGPT's resources.
 
-```c++
+```python
 import logging
 
 import pyfiglet
