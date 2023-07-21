@@ -9,7 +9,7 @@ My project implements ChatGPT’s OpenAI to create an endless game that gives pl
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Justin D | Dublin High School | Software Engineer | Incoming Junior
+| Justin D | Dublin High School | Computer Science | Incoming Junior
 
 
 ![Headstone Image](File_000 (3).jpeg)
