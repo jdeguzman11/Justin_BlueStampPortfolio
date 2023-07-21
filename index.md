@@ -129,4 +129,6 @@ These are some of the guides/resources I used along the way.
 - [Installing Newer Version of Python](https://www.youtube.com/watch?v=Cj7NhuLkvdQ)
 - [LCD Setup/Making Pi Portable Idea](https://www.youtube.com/watch?v=iTUT3i9urwI&t=265s)
 - [How to Run Python in terminal](https://www.youtube.com/watch?v=8mSpxFU5YFg)
+- [CanaKit (Raspberry Pi) Setup](https://www.youtube.com/watch?v=7rcNjgVgc-I)
+
 
