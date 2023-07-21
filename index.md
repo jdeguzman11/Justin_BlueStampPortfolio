@@ -17,7 +17,7 @@ My project implements ChatGPT’s OpenAI to create an endless game that gives pl
 
 # Final Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_DQFTfsj8S4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Since my previous milestone, I have finished the exterior design and managed/organized the interior to secure the raspberry pi from getting damaged. The biggest challenge I’ve had here at BlueStamp Engineering was just trying to figure out what my raspberry pi needed to run my game smoothly. I was able to overcome this by asking the right questions to pinpoint problems and fix them with a proper solution. I’d say the biggest triumph of this experience is Demo Night where I got to show off my working project to the rest of my classmates and their parents. Some key things I learned along my journey was being able to use the command line/terminal, VS Code, working with a raspberry pi, and having a better understanding of ChatGPT and its resources. In the future, I would like to implement a GUI into my project to further my knowledge and improve on my design. Lastly, through BlueStamp I feel as if I learned a lot about myself. I joined this program unsure if I wanted to pursue a career in engineering, but after my experience here I’m definitely going to settle in the engineering field.
 
@@ -110,14 +110,14 @@ while player["progress"] < len(story_points):
 ```
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
-
+These are the parts I used to either set up or built into my project.
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | CanaKit Raspberry Pi 4 Starter Kit | Used for building/setting up my Raspberry Pi | $139.99 | <a href="https://www.amazon.com/CanaKit-Raspberry-4GB-Starter-Kit/dp/B07V5JTMV9/ref=asc_df_B07V5JTMV9/?tag=hyprod-20&linkCode=df0&hvadid=380145854123&hvpos=&hvnetw=g&hvrand=4328410909910130065&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032032&hvtargid=pla-1004184582672&psc=1&tag=&ref=&adgrpid=85982211068&hvpone=&hvptwo=&hvadid=380145854123&hvpos=&hvnetw=g&hvrand=4328410909910130065&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032032&hvtargid=pla-1004184582672"> Link </a> |
 | Hosyond 7 Inch IPS LCD Touch Screen Display Panel | Displays game and provides touch screen to choose from options | $45.88 | <a href="https://www.amazon.com/Hosyond-Display-1024%C3%97600-Capacitive-Raspberry/dp/B09XKC53NH/ref=sr_1_3?crid=1CZRN1MHNP6SJ&keywords=hoysond+7+inch+IPS+LCD+touch+screen+display+panel&qid=1689552210&sprefix=hoysond+7+inch+ips+lcd+touch+screen+display+panel%2Caps%2C134&sr=8-3"> Link </a> |
 | Wireless Keyboard and Mouse | Used to setup/access Raspberry Pi | $23.99 | <a href="https://www.amazon.com/Wireless-Keyboard-Full-Size-Desktops-Computer/dp/B07XDWCLYF/ref=sr_1_3?crid=3FL658R6GSFA1&keywords=wisfox+usb+computer+keyboard&qid=1689552497&sprefix=wisfox+usb+computer+keyboar%2Caps%2C147&sr=8-3"> Link </a> |
+# Tools
+| X-ACTO Knife | Used to cut out hole for LCD and to create enclosure for the Raspberry Pi |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
