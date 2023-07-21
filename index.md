@@ -1,7 +1,7 @@
 # BlueStamp ChatGPT Infinite Text Adventure 
 My project implements ChatGPT’s OpenAI to create an endless game that gives players scenarios based on previous choices they make. My biggest takeaway from this project is realizing how resourceful the internet is, as it played a big part in reaching the end goal.
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
+
 ```HTML 
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
