@@ -74,6 +74,10 @@ player = {
     "progress": 0,
 }
 
+```
+
+```python
+
 # Display the game title
 figlet_font = generate_figlet_font(title["TITLE"], title["TITLE DESCRIPTION"])
 try:
@@ -85,10 +89,18 @@ print(banner)
 print()
 print()
 
+```
+
+```python
+
 # Display the game backstory
 backstory = generate_backstory({"title": title, "location": story_points[0]["location"]})
 print(backstory)
 print()
+
+```
+
+```python
 
 # Start the game
 prompt = generate_prompt(title, story_points, player)
@@ -106,21 +118,6 @@ while player["progress"] < len(story_points):
     print()
     prev_prompt = {"text": prompt["text"], "options": prompt["options"], "selected": prompt["options"][choice - 1]}
     prompt = generate_prompt(title, story_points, player, prev_prompt)
-
-```
-
-```python
-
-# Display the game title
-figlet_font = generate_figlet_font(title["TITLE"], title["TITLE DESCRIPTION"])
-try:
-    banner = pyfiglet.figlet_format(title["TITLE"], font=figlet_font)
-except pyfiglet.FontNotFound:
-    banner = pyfiglet.figlet_format(title["TITLE"])
-print()
-print(banner)
-print()
-print()
 
 ```
 
