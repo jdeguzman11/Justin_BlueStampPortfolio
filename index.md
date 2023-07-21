@@ -109,6 +109,21 @@ while player["progress"] < len(story_points):
 
 ```
 
+```python
+
+# Display the game title
+figlet_font = generate_figlet_font(title["TITLE"], title["TITLE DESCRIPTION"])
+try:
+    banner = pyfiglet.figlet_format(title["TITLE"], font=figlet_font)
+except pyfiglet.FontNotFound:
+    banner = pyfiglet.figlet_format(title["TITLE"])
+print()
+print(banner)
+print()
+print()
+
+```
+
 # Bill of Materials
 These are the parts I used to either set up or build my project.
 
