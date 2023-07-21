@@ -38,6 +38,9 @@ My first milestone was to get my raspberry pi to run the code of the game from m
 # Code
 Here is the code I used to run my game! Make sure you setup an API Key to be able to use and pull from ChatGPT's resources.
 
+### Setup
+This part of my code imports modules that allow me to use a bunch of functions I use in other parts of my code. It also asks for input from the player of what they would like the theme of their game to be, so it can use it to generate the rest of the game like the backstory, prompt, and options.
+
 ```python
 import logging
 
@@ -76,6 +79,9 @@ player = {
 
 ```
 
+### Game Title
+This calls on a function that will put the title of the game in a certain font.
+
 ```python
 
 # Display the game title
@@ -91,6 +97,9 @@ print()
 
 ```
 
+### Backstory
+This calls on a function that will generate a backstory and display it so the reader has background knowledge of what is going on before given a scenario.
+
 ```python
 
 # Display the game backstory
@@ -99,6 +108,9 @@ print(backstory)
 print()
 
 ```
+
+### The Game
+This is where the entirety of the game pretty much happens. Here is where all the prompts, scenarios, and options are generated. It'll ask you to pick one of the four options and when you choose it'll generate another set of scenarios and options to choose from.
 
 ```python
 
