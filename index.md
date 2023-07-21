@@ -122,7 +122,7 @@ These are the parts I used to either set up or built into my project.
 
 | X-ACTO Knife | Used to cut out hole for LCD and to create enclosure for the Raspberry Pi |
 
-# Other Resources/Examples
+# My Resources
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
