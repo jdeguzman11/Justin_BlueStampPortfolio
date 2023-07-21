@@ -80,7 +80,7 @@ player = {
 ```
 
 ### Game Title
-This calls on a function that will put the title of the game in a certain font based on what the title generated is.
+This calls on a function that will put the generated title of the game in a certain font.
 
 ```python
 
