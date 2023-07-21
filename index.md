@@ -36,11 +36,9 @@ My second milestone was to get my game up and running on my LCD. This immediatel
 My first milestone was to get my raspberry pi to run the code of the game from my terminal. I was able to do this by getting my raspberry pi up and running through a monitor. I then learned how to remotely access(ssh) my pi to copy a repository that held all the code for the game. I wasn’t very familiar with the command line, but with help from my instructor and online videos I started to get the hang of it. After I copied the code, I needed to install Python requirements for my project, which led me to my first problem. The version of Python installed on my raspberry pi was 2.7.16, but the code of the game needed a newer version. I fixed this problem by learning different commands in the command line to help download a newer version of python which was 3.9.11. My next milestone is to get my game running on my LCD.
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
+Here is the code I used to run my game! Make sure you setup an API Key to be able to use and pull from ChatGPT's resources.
 
 ```c++
-void setup() {
-  // put your setup code here, to run once:
 import logging
 
 import pyfiglet
@@ -108,12 +106,7 @@ while player["progress"] < len(story_points):
     print()
     prev_prompt = {"text": prompt["text"], "options": prompt["options"], "selected": prompt["options"][choice - 1]}
     prompt = generate_prompt(title, story_points, player, prev_prompt)
-}
 
-void loop() {
-  // put your main code here, to run repeatedly:
-
-}
 ```
 
 # Bill of Materials
