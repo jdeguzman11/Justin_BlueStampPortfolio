@@ -124,8 +124,9 @@ These are the parts I used to either set up or build my project.
 | Hot Glue Gun | Used to glue cardboard enclosure to secure Raspberry Pi so it won't get damaged |
 
 # My Resources
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
+These are some of the guides/resources I used along the way.
+- [ChatGPT Text Adventure Repository](https://github.com/somacdivad/gpt-text-adventure/tree/improved-game-workflow)
+- [Installing Newer Version of Python](https://www.youtube.com/watch?v=Cj7NhuLkvdQ)
+- [LCD Setup/Making Pi Portable Idea](https://www.youtube.com/watch?v=iTUT3i9urwI&t=265s)
+- [How to Run Python in terminal](https://www.youtube.com/watch?v=8mSpxFU5YFg)
 
