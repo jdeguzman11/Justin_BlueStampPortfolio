@@ -17,15 +17,9 @@ You should comment out all portions of your portfolio that you have not complete
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+Since my previous milestone, I have finished the exterior design and managed/organized the interior to secure the raspberry pi from getting damaged. The biggest challenge I’ve had here at BlueStamp Engineering was just trying to figure out what my raspberry pi needed to run my game smoothly. I was able to overcome this by asking the right questions to pinpoint problems and fix them with a proper solution. I’d say the biggest triumph of this experience is Demo Night where I got to show off my working project to the rest of my classmates and their parents. Some key things I learned along my journey was being able to use the command line/terminal, VS Code, working with a raspberry pi, and having a better understanding of ChatGPT and its resources. In the future, I would like to implement a GUI into my project to further my knowledge and improve on my design. Lastly, through BlueStamp I feel as if I learned a lot about myself. I joined this program unsure if I wanted to pursue a career in engineering, but after my experience here I’m definitely going to settle in the engineering field.
 
 
 
