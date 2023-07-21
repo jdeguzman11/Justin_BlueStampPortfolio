@@ -110,7 +110,7 @@ while player["progress"] < len(story_points):
 ```
 
 # Bill of Materials
-These are the parts I used to either set up or built into my project.
+These are the parts I used to either set up or build my project.
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
