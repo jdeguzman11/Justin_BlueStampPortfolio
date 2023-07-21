@@ -2,9 +2,6 @@
 My project implements ChatGPT’s OpenAI to create an endless game that gives players scenarios based on previous choices they make. My biggest takeaway from this project is realizing how resourceful the internet is, as it played a big part in reaching the end goal.
 
 
-```HTML 
-
-```
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
